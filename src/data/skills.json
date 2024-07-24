@@ -32,6 +32,10 @@
         "imageSrc": "skills/sql.png"
     },
     {
+         "title": "Swift",
+        "imageSrc": "skills/swift.png"
+    },
+    {
         "title": "TensorFlow",
         "imageSrc": "skills/tensorflow.png"
     }
