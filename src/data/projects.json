@@ -1,0 +1,18 @@
+[
+    {
+        "title" : "Asset Tracking Tool", 
+        "imageSrc" : "projects/capstone.png",
+        "description" : "ASU Capstone Project, sponsored by Disruptive Radio Team at General Dynamics Mission Systems",
+        "skills" : ["React", "SQL", "Teamwork"],
+        "source": "https://github.com/kevbao/Capstone-AssetTrackingTool"
+    },
+
+    {
+        "title" : "Company Website", 
+        "imageSrc" : "projects/webdev.png",
+        "description" : "Creating a website for Dr. June Austria, DDS (Still in Progress)",
+        "skills" : ["React", "CSS"],
+        "source": "https://github.com/stephaustria/Website-Personal-Project"
+    }
+
+]

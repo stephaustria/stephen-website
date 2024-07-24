@@ -1,0 +1,18 @@
+[
+    {
+        "role": "Sales Associate" ,
+        "organization": "Nike",
+        "startDate": "August 2023",
+        "endDate": "June 2024",
+        "experience": ["Processed soft goods apparel and footwear", "Back stock inventory from shipment deliveries"],
+        "imageSrc": "history/nike.png"
+    },
+    {
+        "role": "Technical Quality Assurance Intern" ,
+        "organization": "BiziBAZA",
+        "startDate": "May 2021",
+        "endDate": "July 2021",
+        "experience": ["Understand and perform testing on different platforms and reporting on findings ", "Act as customer and seller on application to fulfill key testing roles"],
+        "imageSrc": "history/bizibaza.png"
+    }
+]

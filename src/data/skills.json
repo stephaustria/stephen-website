@@ -2,5 +2,37 @@
     {
         "title": "Java",
         "imageSrc": "skills/java.png"
+    },
+    {
+        "title": "CPP",
+        "imageSrc": "skills/cpp.png"
+    },
+    {
+        "title": "Python",
+        "imageSrc": "skills/python.png"
+    },
+    {
+        "title": "JavaScript",
+        "imageSrc": "skills/javascript.png"
+    },
+    {
+        "title": "HTML",
+        "imageSrc": "skills/html.png"
+    },
+    {
+        "title": "CSS",
+        "imageSrc": "skills/css.png"
+    },
+    {
+        "title": "React",
+        "imageSrc": "skills/react.png"
+    },
+    {
+        "title": "SQL",
+        "imageSrc": "skills/sql.png"
+    },
+    {
+        "title": "TensorFlow",
+        "imageSrc": "skills/tensorflow.png"
     }
 ]

@@ -21,7 +21,7 @@ export const About = () => {
                         />
                         <div className={styles.aboutItemText}>
                             <h3>Arizona State University</h3>
-                            <p>I graduated Magna Cum Laude with a Bachelor's Degree in Computer Science with a concentration in Software Engineering</p>
+                            <p>I graduated Magna Cum Laude with a Bachelor's Degree in Computer Science with a concentration in Software Engineering on May 2024</p>
                         </div>
                     </li>
                     <li className={styles.aboutItem}>
