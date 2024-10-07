@@ -1,18 +1,18 @@
 [
     {
-        "role": "Sales Associate" ,
-        "organization": "Nike",
-        "startDate": "August 2023",
-        "endDate": "June 2024",
-        "experience": ["Processed soft goods apparel and footwear", "Back stock inventory from shipment deliveries"],
-        "imageSrc": "history/nike.png"
+        "role": "Software Engineer" ,
+        "organization": "1Life2Connect",
+        "startDate": "September 2024",
+        "endDate": "Present",
+        "experience": ["Collaborating with a combined team of 38 front-end and back-end developers to resolve code issues.", "Debugging web applications and fixing bugs", "Implemented 12 new features into development", "Developed 15 new unit tests to ensure the fixes are thoroughly validated"],
+        "imageSrc": "history/1l2c-logo.png"
     },
     {
         "role": "Technical Quality Assurance Intern" ,
         "organization": "BiziBAZA",
         "startDate": "May 2021",
         "endDate": "July 2021",
-        "experience": ["Understand and perform testing on different platforms and reporting on findings ", "Act as customer and seller on application to fulfill key testing roles"],
+        "experience": ["Understand and perform testing on different platforms and reporting on findings", "Partner with a team of 18 developers to discuss findings and recreate bugs"],
         "imageSrc": "history/bizibaza.png"
     }
 ]
