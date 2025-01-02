@@ -8,11 +8,11 @@
     },
 
     {
-        "title" : "Company Website", 
+        "title" : "Fantasy Basketball Machine Learning Model", 
         "imageSrc" : "projects/webdev.png",
-        "description" : "Creating a website for Dr. June Austria, DDS (Still in Progress)",
-        "skills" : ["React", "CSS"],
-        "source": "https://github.com/stephaustria/Website-Personal-Project"
+        "description" : "Creating a model to rank top players based on their fantasy point projections",
+        "skills" : ["Python", "Jupyter Notebooks", "Pandas", "TensorFlow", "scikit-learn"],
+        "source": "https://github.com/stephaustria/FantasyBasketballModel"
     }
 
 ]
